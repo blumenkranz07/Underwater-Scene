@@ -5,17 +5,20 @@ _DALI Lab Job Application – Winter 2024_
 
 ---
 
-Brainstorming & Ideation (3 Hours)  
-Modeling (3 Hours)
-Rendering (3 Hours) 
+*Brainstorming & Ideation (3 Hours)  
+*Modeling (3 Hours)
+*Rendering (3 Hours) 
 
 ---
 
 ## **Concept Art & Renders**
-### **Images**
 ![Concept Image 1](images/image1.png)  
-![Concept Image 2](images/concept2.png)  
-![Concept Image 3](images/concept3.png)  
+![Concept Image 1](images/image2.png) 
+![Concept Image 1](images/image3.png)
+![Concept Image 1](images/image4.png)
+![Concept Image 1](images/image5.png)
+![Concept Image 1](images/image6.png)
+![Concept Image 1](images/image7.png)
 
 ---
 
