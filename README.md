@@ -11,7 +11,7 @@ Rendering (3 Hours)
 
 ---
 
-## 📸 **Concept Art & Renders**
+## **Concept Art & Renders**
 ### **Images**
 ![Concept Image 1](images/concept1.png)  
 ![Concept Image 2](images/concept2.png)  
