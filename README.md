@@ -12,6 +12,17 @@ _DALI Lab Job Application – Winter 2024_
 ---
 
 ## **Concept Art & Renders**
+<p align="center">
+  <img src="images/image1.png" width="400" />
+  <img src="images/image2.png" width="400" />
+  <img src="images/image3.png" width="400" />
+  <img src="images/image4.png" width="400" />
+  <img src="images/image5.png" width="400" />
+  <img src="images/image6.png" width="400" />
+  <img src="images/image7.png" width="400" />
+</p>
+
+<!--
 ![Concept Image 1](images/image1.png)  
 ![Concept Image 1](images/image2.png) 
 ![Concept Image 1](images/image3.png)
@@ -19,7 +30,7 @@ _DALI Lab Job Application – Winter 2024_
 ![Concept Image 1](images/image5.png)
 ![Concept Image 1](images/image6.png)
 ![Concept Image 1](images/image7.png)
-
+-->
 ---
 
 ## **Final Thoughts**
