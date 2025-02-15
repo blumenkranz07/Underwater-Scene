@@ -1,7 +1,7 @@
 # Underwater-Scene
 
 **Concept Design by Xinyi Dong**  
-_DALI Lab Job Application – Winter 2024_
+_9-Hour DALI Lab Job Application Challenge – Winter 2024_
 
 ---
 
